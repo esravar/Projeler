@@ -26,6 +26,7 @@ public class UserData {
     public void setAge( int value )
     {
         age = value;
+        1=1;
     }
 
     public String getUsername() { return username; }
