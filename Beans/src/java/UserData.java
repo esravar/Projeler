@@ -26,6 +26,7 @@ public class UserData {
     public void setAge( int value )
     {
         age = value;
+        //degisiklik yapıldı
         1=1;
     }
 
